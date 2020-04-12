@@ -1,5 +1,6 @@
-## udemy-git course
-### first assignment
+## Udemy-- Introduction to Git and GitHub course
+### First assignment
 
 Name: Enas Mesqali
+
 Note: Good luck
